@@ -27,9 +27,9 @@
       <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/18.png" width="500"/>
 
 <p>Gear ideas:</p>
-<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/Rep_1.png"/>
-<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/Rep_2.png"/>
-<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/Rep_3.png"/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/Rep_1.png" width="500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/Rep_2.png" width="500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/Rep_3.png" width="500/>
 
    <p>Once the above designs were created, we had to consider the 10 KG loads and how that would affect the overall structure of the body. 
     As we were using a sheet metal body, we thought the thin triangluar shape would not be sufficent enough to support the weight of the load, and so we increased the triangular sizing of the body.</p>
@@ -48,3 +48,17 @@
 
   <hr/>
 <h2>Compilation of all my Drawings:</h2>
+
+<p>Here's a bunch of random artworks and designs I have created, have a look. There's many more that can be found within the folders above.</p>
+
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232059_002.jpeg" width=500/>
+<imgcaption>Drawing of plane design</imgcaption>
+
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232059_005.jpeg" width=500/>
+<imgcaption>Drawing of plane design</imgcaption>
+
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232059_011.jpeg" width=500/>
+<imgcaption>Drawing of plane design - internal luxury designs</imgcaption>
+
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232059_029.jpeg" width=500/>
+<imgcaption>Drawing of scooter handle</imgcaption>
