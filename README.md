@@ -12,6 +12,8 @@
      <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/1.png" width="500"/>
      <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/4.png" width="500"/>
      <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/6.png" width="500"/>
+ 
+ <h3>Design Updates</h3>
    
    <p>After the designs were rendered, we realised that we liked ideas from all 3 designs and decided that we should combine the features into one product. Below is another iteration of the design.</p>
       <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/10.png" width="500"/>
@@ -25,7 +27,7 @@
       <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/18.png" width="500"/>
 
 
- <h3>Design Updates</h3>
    <p>Once the above designs were created, we had to consider the 10 KG loads and how that would affect the overall structure of the body. 
     As we were using a sheet metal body, we thought the thin triangluar shape would not be sufficent enough to support the weight of the load, and so we increased the triangular sizing of the body.</p>
-   
+    <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/metal.png"/>
+     <a href="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/fea-%20car%20thing.pdf">FEA Stress and Strain test on pendulum arm.</a>
