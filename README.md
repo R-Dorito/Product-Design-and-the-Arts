@@ -62,3 +62,26 @@
 
 <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232059_029.jpeg" width=500/>
 <imgcaption>Drawing of scooter handle</imgcaption>
+
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232112.jpeg" width=500/>
+<imgcaption>Drawing of scooter handle - Pole grasp</imgcaption>
+
+
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232112_007.jpeg" width=500/>
+<imgcaption>Drawing of hammer</imgcaption>
+
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232112_015.jpeg" width=500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232112_014.jpeg" width=500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232112_022.jpeg" width=500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232112_027.jpeg" width=500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232123.jpeg" width=500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Drawings/signal-2026-02-01-232123_005.jpeg" width=500/>
+<imgcaption>Drawing</imgcaption>
+
+<p>Greenhouse designs:</p>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Greenhouse%20Design/Concept%201.png" width=500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Greenhouse%20Design/Concept%202.png" width=500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Greenhouse%20Design/Concept%206.png" width=500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Greenhouse%20Design/Concept%207.png" width=500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Greenhouse%20Design/Concept%2011.png" width=500/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Greenhouse%20Design/SD_PM.png" width=500/>
