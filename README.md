@@ -26,8 +26,22 @@
       <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/17.png" width="500"/>
       <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/18.png" width="500"/>
 
+<p>Gear ideas:</p>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/Rep_1.png"/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/Rep_2.png"/>
+<img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Render%20System%20design/Rep_3.png"/>
 
    <p>Once the above designs were created, we had to consider the 10 KG loads and how that would affect the overall structure of the body. 
     As we were using a sheet metal body, we thought the thin triangluar shape would not be sufficent enough to support the weight of the load, and so we increased the triangular sizing of the body.</p>
     <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/metal.png"/>
      <a href="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/fea-%20car%20thing.pdf">FEA Stress and Strain test on pendulum arm.</a>
+
+<h3>Final Designs</h3>
+<p>The final designs were made after a few changes, and this is what we ended up with! Have a look at the renders!</p>
+  <img src="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/New%20Project%20(6).png"/>
+
+<p>I had even created animations of the car moving, check these links out:</p>
+  <a href="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Car%20spins%20in%20a%20circle.mp4">Car rotation to show all sides</a>
+  <a href="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Pendulum%20released.mp4">Pendulum being released</a>
+  <a href="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/Pendulum%20swings%20back%20and%20forth.mp4">Car pendulum moving back and forth</a>
+  <a href="https://github.com/R-Dorito/Product-Design-and-the-Arts/blob/main/Gravity%20Car/zoomed%20in%20gears.mp4">Car's gearbox on display</a>
